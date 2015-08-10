@@ -1,0 +1,5 @@
+[appneta]
+name=AppNeta
+baseurl=http://yum.appneta.com/%ACCESS_KEY%/6/x86_64
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-appneta
+gpgcheck=1
